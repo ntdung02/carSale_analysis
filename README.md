@@ -45,6 +45,14 @@ Tại cột Model có một số dòng chứa giá trị kiểu Date, vì vậy 
 Nhìn vào doanh số bán được trong 2 năm ta nhận thấy doanh số có xu hướng tăng cao vào cuối năm, có thể do các dịp mua sắm lớn, chương trình khuyến mãi cuối năm hoặc do lương thưởng cuối năm đổ về nên nhu cầu mua xe tăng cao.
 Đầu năm thường là thời điểm doanh số bán hàng thấp, có thể do nhu cầu mua sắm giảm sau dịp lễ hoặc ảnh hưởng từ tình hình kinh tế.
 
+- Phân phối giá xe theo số lượng
+
+![image](https://github.com/user-attachments/assets/6f9cd718-ea37-492a-94c6-0aeca5e61bd3)
+
+Nhu cầu thị trường tập trung chủ yếu vào các xe có giá tầm trung, đặc biệt là từ 10,000$ - 30,000$. Điều này cho thấy phân khúc xe trong khoảng giá trung bình thấp là phổ biến nhất, có thể do khả năng chi trả và nhu cầu cao ở mức giá này.
+
+Sau khoảng 30,000$, số lượng xe bán ra giảm đáng kể, đặc biệt từ 50,000$ trở lên. Điều này cho thấy các dòng xe cao cấp hơn có nhu cầu thấp hơn, có thể do giá cao vượt khả năng chi trả của phần lớn khách hàng
+
 - Doanh Số Theo Body Style và Gender
 
 ![image](https://github.com/user-attachments/assets/c7d8b08a-0c38-45fd-a91c-554bbbfa7d84)
