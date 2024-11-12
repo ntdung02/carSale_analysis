@@ -23,7 +23,7 @@ Bộ dữ liệu này không có các giá trị trùng lặp, chỉ có cột D
 
 ![image](https://github.com/user-attachments/assets/7a0c403b-f124-4d3b-a76f-a1cba4aa3be0)
 
-##  Đánh giá biến động trong Doanh số bán hàng
+##  Đánh giá biến động trong Doanh số bán hàng và xu hướng mua xe
 
 - Doanh số bán xe theo từng tháng (theo số liệu từ năm 2022 - 2023)
 
