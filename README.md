@@ -76,7 +76,8 @@ Về sở thích màu sắc, cả nam và nữ đều có xu hướng ưa chuộ
 
 - Bảng điều khiển
 
-![image](https://github.com/user-attachments/assets/b84184cb-7fe7-4733-8bb4-16456ad21950)
+![image](https://github.com/user-attachments/assets/03447840-95ae-4af7-9983-68c167f976bc)
+
 
 
 
